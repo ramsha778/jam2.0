@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.h1{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.resume-builder{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.form-control{
+    width: 30%;
+    box-sizing: 50px;
+    border-color: darkblue;
+}
+.button1:hover, .button2:hover{
+    background-color: blue;
+    color: white;
+}
